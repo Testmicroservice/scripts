@@ -1,5 +1,6 @@
 import cv2
 # Random comment
+# New random comment
 
 cap = cv2.VideoCapture(0)
 
